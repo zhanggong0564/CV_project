@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a8f11189-6961-4f13-a187-8ea2a30f003f" name="Copy of project-level server 'kkb'" url="http://116.85.17.6">
+        <fileTransfer host="116.85.17.6" port="10325" rootFolder="/root" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="10325" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Copy of project-level server 'kkb'">
     <serverData>
+      <paths name="Copy of project-level server 'kkb'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/animal_class" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="kkb">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/animal_class" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="root@111.44.254.130:56204">
         <serverdata>
           <mappings>
@@ -10,5 +24,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>

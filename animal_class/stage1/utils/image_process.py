@@ -16,7 +16,6 @@ class Mydataset(Dataset):
         return self.image.shape[0]
     def __getitem__(self, index):
         image = cv2.imread(self.image[index])
-        print(self.image[index])
         label = int(self.label[index])
         if self.transform:
             image = self.transform(image)

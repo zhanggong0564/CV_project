@@ -6,9 +6,9 @@ train_label_list = []
 val_image_list=[]
 val_label_list = []
 
-train_image_dir = r'D:\kkb\animal_class\stage1\data\train'
-data_list_dir = r'D:\kkb\animal_class\stage1\data_list'
-val_image_dir = r'D:\kkb\animal_class\stage1\data\val'
+train_image_dir = '/root/animal_class/stage1/data/train'
+data_list_dir = '/root/animal_class/stage1/data_list'
+val_image_dir = 'root/animal_class/stage1/data/val'
 
 for s1 in os.listdir(train_image_dir):
     if s1 == 'chickens':

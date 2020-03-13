@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/root/animal_class')
+sys.path.append('/root/animal_class')
 import torch
 from stage1.utils.image_process import Mydataset,imagaug
 from torchvision import transforms
