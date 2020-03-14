@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="Copy of project-level server 'kkb'">
+  <component name="PublishConfigData" autoUpload="Always" serverName="kkb">
     <serverData>
       <paths name="Copy of project-level server 'kkb'">
         <serverdata>
@@ -12,7 +12,7 @@
       <paths name="kkb">
         <serverdata>
           <mappings>
-            <mapping deploy="/root/animal_class" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/root/animal_class" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
