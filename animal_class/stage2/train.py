@@ -11,11 +11,13 @@ import os
 from stage2.model.Alexnet import AlexNet
 import torch.nn as nn
 import numpy as np
+import matplotlib.pyplot as plt
 
 def train(net,epoch,train_loader,optimizer,device,criterion,train_dataset):
     net.train()
     total_loss = 0.0
     iterm = 0
+    total_acc = 0.0
     dataprocess = tqdm(train_loader)
     for batch_item in dataprocess:
         image,label = batch_item['image'].to(device,torch.float32),batch_item['label'].to(device,torch.long)
@@ -24,17 +26,22 @@ def train(net,epoch,train_loader,optimizer,device,criterion,train_dataset):
         output = output.view(-1,3)
         loss = criterion(output,label)
         total_loss += loss
+        _,pred_cls = torch.max(output,1)
+        acc=torch.sum(pred_cls==label)
         iterm+=1
         loss.backward()
         optimizer.step()
         dataprocess.set_description_str("train_epoch:{}".format(epoch))
-        dataprocess.set_postfix_str("train_loss:{:.4f}".format(loss.item()))
+        dataprocess.set_postfix_str("train_loss:{:.4f},acc{:.2%}".format(loss.item(),acc/len(train_loader)))
     avg_loss =total_loss.item() / iterm
+    epoch_acc = total_acc / len(train_dataset)
+    print('train_acc:{:.2%}'.format(epoch_acc))
     print("train_loss:{:.4f}".format(avg_loss))
-    return avg_loss
+    return avg_loss,epoch_acc
 def val(net,epoch,val_loader,device,val_dataset,criterion):
     net.eval()
     total_loss = 0.0
+    total_acc = 0.0
     dataprocess = tqdm(val_loader)
     iterm = 0
     for batch_item in dataprocess:
@@ -43,12 +50,17 @@ def val(net,epoch,val_loader,device,val_dataset,criterion):
         output = output.view(-1, 3)
         loss = criterion(output,label)
         total_loss +=loss
+        _,pred_cls = torch.max(output,1)
+        acc=torch.sum(pred_cls==label)
+        total_acc +=acc
         iterm+=1
         dataprocess.set_description_str("val_epoch:{}".format(epoch))
-        dataprocess.set_postfix_str("val_loss:{:.4f}".format(loss.item()))
+        dataprocess.set_postfix_str("val_loss:{:.4f},acc{:.2%}".format(loss.item(),acc/len(val_loader)))
     avg_loss= total_loss.item() / iterm
     print("val_loss:{:.4f}".format(avg_loss))
-    return avg_loss
+    epoch_acc = total_acc / len(val_dataset)
+    print('val_acc:{:.2%}'.format(epoch_acc))
+    return avg_loss,epoch_acc
 def main():
     if not os.path.exists(config.SAVE_PATH):
         os.makedirs(config.SAVE_PATH)
@@ -72,11 +84,15 @@ def main():
     criterion = nn.NLLLoss()
     train_epoch_loss= []
     val_epoch_loss = []
+    train_acc_list = []
+    val_acc_list = []
     for epoch in range(config.max_iter):
-        trian_loss = train(net,epoch,train_loader,optimizer,device,criterion,train_dataset)
-        val_loss = val(net,epoch,val_loader,device,val_dataset,criterion)
+        trian_loss ,train_acc = train(net,epoch,train_loader,optimizer,device,criterion,train_dataset)
+        val_loss ,val_acc = val(net,epoch,val_loader,device,val_dataset,criterion)
         train_epoch_loss.append(trian_loss)
         val_epoch_loss.append(val_loss)
+        train_acc_list.append(train_acc)
+        val_acc_list.append(val_acc)
         if epoch%10==0:
             torch.save(net, os.path.join(os.getcwd(), config.SAVE_PATH, 'model_{}.pth'.format(epoch)))
     torch.save(net, os.path.join(os.getcwd(), config.SAVE_PATH, 'Fine_model_fine.pth'))
@@ -90,5 +106,14 @@ def main():
     plt.ylabel('loss')
     plt.savefig("train and val loss vs epoches.jpg")
     plt.close('all')  # 关闭图 0
+    y5 = train_acc_list
+    y6= val_acc_list
+    plt.plot(x, y5, color="r", linestyle="-", marker=".", linewidth=1, label="train")
+    plt.plot(x, y6, color="b", linestyle="-", marker=".", linewidth=1, label="val")
+    plt.legend()
+    plt.title('train and val Classes_acc vs. epoches')
+    plt.ylabel('Classes_accuracy')
+    plt.savefig("train and val Classes_acc vs epoches.jpg")
+    plt.close('all')
 if __name__ == '__main__':
     main()

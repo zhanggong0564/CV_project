@@ -29,7 +29,7 @@ def val_acc(val_dataloader,device,model,val_dataset):
         data_process.set_description_str("loading image")
         data_process.set_postfix_str("acc:{:.2%}".format(acc.double()/128))
     epoch_acc = total_acc.double()/len(val_dataset)
-    print("acc:{:.2%}".format(epoch_acc))
+    print("acc:{:.2%}".format(epoch_lacc))
 def main():
     val_dataset = Mydataset(config.root_dir,config.val_csv_file,transform=transforms.Compose([
         transforms.ToPILImage(),

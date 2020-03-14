@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="kkb">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh">
     <serverData>
-      <paths name="Copy of project-level server 'kkb'">
+      <paths name="ssh">
         <serverdata>
           <mappings>
             <mapping deploy="/root/animal_class" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="kkb">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/root/animal_class" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="root@111.44.254.130:56204">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

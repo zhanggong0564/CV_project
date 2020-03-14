@@ -4,4 +4,4 @@ val_csv_file = 'val.csv'
 SAVE_PATH = '/root/animal_class/stage1/logs'
 lr = 0.001
 max_iter = 1000
-batch_size = 32
+batch_size = 128

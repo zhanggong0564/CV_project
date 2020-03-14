@@ -5,978 +5,16 @@
       <change beforePath="$PROJECT_DIR$/.idea/animal_class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/animal_class.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/Images-rename.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens042.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens043.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens044.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens045.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens046.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens047.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens052.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens053.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens055.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens056.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens057.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens059.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens060.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens064.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens065.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens066.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens068.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens069.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens070.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens071.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens073.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens075.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens076.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens077.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens078.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens079.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens080.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens081.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens082.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens083.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens084.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens085.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens086.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens087.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens088.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens089.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens090.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens091.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens092.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens093.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens094.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens095.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens096.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens097.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens098.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens099.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens109.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens116.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens117.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens119.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens120.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens124.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens126.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens131.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens134.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens135.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens136.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens137.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens139.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens140.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens141.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens142.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens143.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens144.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens145.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens146.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens147.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens149.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens150.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens151.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens153.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens154.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens155.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens156.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens157.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens158.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens161.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens163.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens165.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens166.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens167.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens168.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens170.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens172.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens173.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens174.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens175.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens176.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens177.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens178.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens181.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens182.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens183.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens184.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens186.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens187.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens188.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens190.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens191.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens192.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens193.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens194.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens195.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens196.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens197.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens198.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens199.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens201.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens203.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens204.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens205.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens206.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens207.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens210.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens212.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens213.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens214.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens215.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens216.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens217.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens218.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens220.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens224.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens226.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens227.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens228.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens229.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens230.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens231.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens232.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens233.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens234.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens236.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens238.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens239.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens240.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens241.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens242.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens243.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens244.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens245.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens246.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens247.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens248.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens249.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens251.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens252.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens253.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens254.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens255.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens256.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens257.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens258.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens259.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens260.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens261.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens262.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens263.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens264.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens265.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens266.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens267.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens268.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens269.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens270.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens271.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens272.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens273.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens274.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens275.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens276.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens277.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens278.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens279.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens281.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens282.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens283.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens284.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens285.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens286.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens287.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens288.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens289.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens290.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens291.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens292.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens293.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens294.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens295.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens296.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens297.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens298.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens299.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens301.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens302.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens303.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens304.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens305.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens306.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens307.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens308.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/chickens/chickens309.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits042.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits043.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits044.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits045.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits046.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits047.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits052.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits053.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits055.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits056.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits057.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits059.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits060.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits064.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits065.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits066.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits068.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits069.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits070.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits071.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits073.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits075.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits076.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits077.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits078.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits079.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits080.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits081.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits082.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits083.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits084.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits085.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits086.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits087.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits088.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits089.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits090.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits091.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits092.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits093.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits094.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits095.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits096.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits097.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits098.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits099.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits109.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits116.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits117.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits119.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits120.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits124.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits126.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits131.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits134.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits135.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits136.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits137.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits139.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits140.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits141.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits142.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits143.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits144.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits145.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits146.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits147.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits149.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits150.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits151.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits153.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits154.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits155.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits156.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits157.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits158.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits161.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits163.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits165.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits166.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits167.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits168.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits170.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits172.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits173.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits174.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits175.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits176.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits177.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits178.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits181.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits182.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits183.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits184.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits186.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits187.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits188.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits190.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits191.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits192.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits193.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits194.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits195.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits196.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits197.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits198.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits199.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits201.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits203.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits204.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits205.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits206.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits207.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits210.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits212.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits213.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits214.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits215.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits216.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits217.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits218.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits220.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits224.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits226.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits227.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits228.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits229.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits230.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits231.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits232.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits233.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits234.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits236.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits238.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits239.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits240.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits241.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits242.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits243.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits244.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits245.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits246.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits247.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits248.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits249.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits251.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits252.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits253.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits254.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits255.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits256.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits257.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits258.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits259.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits260.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits261.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits262.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits263.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits264.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits265.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits266.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits267.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits268.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits269.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits270.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits271.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits272.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits273.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits274.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits275.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits276.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits277.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits278.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits279.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits280.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits281.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits282.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits283.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits284.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits285.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits286.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits287.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits288.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits289.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits290.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits291.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits292.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits293.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits294.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits295.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits296.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits297.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits298.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits299.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits301.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits302.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits303.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits304.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits305.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits306.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits307.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits308.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rabbits/rabbits309.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats042.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats043.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats044.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats045.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats046.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats047.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats048.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats052.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats053.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats055.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats056.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats057.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats058.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats059.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats060.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats061.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats062.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats063.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats064.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats065.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats066.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats067.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats068.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats069.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats070.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats071.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats072.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats073.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats074.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats075.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats076.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats077.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats078.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats079.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats080.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats081.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats082.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats083.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats084.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats085.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats086.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats087.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats088.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats089.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats090.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats091.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats092.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats093.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats094.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats095.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats096.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats097.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats098.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats099.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats101.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats102.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats103.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats104.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats107.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats109.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats111.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats112.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats113.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats114.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats115.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats116.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats117.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats118.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats119.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats120.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats121.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats122.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats124.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats126.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats128.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats129.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats130.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats131.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats134.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats135.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats136.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats137.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats138.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats139.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats140.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats141.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats142.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats143.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats144.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats145.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats146.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats147.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats148.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats149.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats150.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats151.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats152.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats153.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats154.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats155.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats156.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats157.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats158.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats159.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats161.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats163.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats165.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats166.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats167.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats168.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats169.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats170.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats172.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats173.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats174.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats175.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats176.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats177.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats178.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats181.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats182.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats183.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats184.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats185.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats186.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats187.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats188.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats189.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats190.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats191.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats192.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats193.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats194.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats195.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats196.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats197.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats198.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats199.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats201.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats202.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats203.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats204.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats205.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats206.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats207.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats208.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats210.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats212.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats213.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats214.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats215.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats216.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats217.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats218.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats220.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats224.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats225.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats226.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats227.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats228.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats229.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats230.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats231.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats232.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats233.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats234.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats235.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats236.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats237.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats238.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats239.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats240.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats241.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats242.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats243.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats244.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats245.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats246.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats247.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats248.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats249.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats251.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats252.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats253.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats254.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats255.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats256.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats257.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats258.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats259.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats260.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats261.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats262.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats263.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats264.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats265.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats266.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats267.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats268.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/train/rats/rats269.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/chickens/chickens029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits022.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rabbits/rabbits029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats011.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats013.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1/data/val/rats/rats019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage1/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage1/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage1/data_list/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage1/data_list/val.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage1/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage1/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage1/utils/make_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage1/utils/make_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage2/inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage2/inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage2/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage2/train.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1013,23 +51,25 @@
     <session id="1003561145">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1541" />
+          <entry key="Python" value="1938" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="22" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="40" />
         </counts>
       </usages-collector>
     </session>
@@ -1037,22 +77,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stage1/Classes_classification.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="157" selection-start-line="157" selection-end-line="163" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stage2/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+            <state relative-caret-position="322">
+              <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -1060,10 +88,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stage2/Classes_classification.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="2325">
+              <caret line="129" selection-start-line="129" selection-end-line="129" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stage1/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stage1/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="58" column="106" selection-start-line="58" selection-start-column="106" selection-end-line="58" selection-end-column="106" />
             </state>
           </provider>
         </entry>
@@ -1072,18 +119,51 @@
         <entry file="file://$PROJECT_DIR$/stage2/inference.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
-              <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stage2/model/Alexnet.py">
+        <entry file="file://$PROJECT_DIR$/stage1/inference.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="296">
+              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stage1/utils/make_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stage1/utils/image_process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stage3/utils/make_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1109,15 +189,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/stage1/train.py" />
-        <option value="$PROJECT_DIR$/stage1/utils/make_list.py" />
-        <option value="$PROJECT_DIR$/stage1/config.py" />
-        <option value="$PROJECT_DIR$/stage1/utils/image_process.py" />
         <option value="$PROJECT_DIR$/stage1/inference.py" />
         <option value="$PROJECT_DIR$/stage2/model/Alexnet.py" />
         <option value="$PROJECT_DIR$/stage2/config.py" />
+        <option value="$PROJECT_DIR$/stage3/utils/make_list.py" />
+        <option value="$PROJECT_DIR$/stage1/config.py" />
+        <option value="$PROJECT_DIR$/stage1/utils/image_process.py" />
+        <option value="$PROJECT_DIR$/stage1/utils/make_list.py" />
         <option value="$PROJECT_DIR$/stage2/inference.py" />
+        <option value="$PROJECT_DIR$/stage2/Classes_classification.py" />
         <option value="$PROJECT_DIR$/stage2/train.py" />
+        <option value="$PROJECT_DIR$/stage1/train.py" />
       </list>
     </option>
   </component>
@@ -1140,7 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1151,12 +232,18 @@
             <path>
               <item name="animal_class" type="b2602c69:ProjectViewProjectNode" />
               <item name="animal_class" type="462c0819:PsiDirectoryNode" />
+              <item name="stage1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="animal_class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="animal_class" type="462c0819:PsiDirectoryNode" />
               <item name="stage2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1212,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Images-rename" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="animal_class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1220,34 +307,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stage1/Dataset" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stage2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stage1/Dataset/Images-rename.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="animal_class" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stage2/config.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1260,9 +325,6 @@
       <module name="animal_class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stage1" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -1321,18 +383,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.train" />
-      <item itemvalue="Python.Images-rename" />
       <item itemvalue="Python.Images-rename (1)" />
       <item itemvalue="Python.inference" />
       <item itemvalue="Python.train (1)" />
+      <item itemvalue="Python.config" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.train (1)" />
         <item itemvalue="Python.inference" />
         <item itemvalue="Python.train" />
+        <item itemvalue="Python.config" />
         <item itemvalue="Python.Images-rename (1)" />
-        <item itemvalue="Python.Images-rename" />
       </list>
     </recent_temporary>
   </component>
@@ -1349,7 +411,7 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -1362,7 +424,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2683374" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27139366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1371,19 +433,19 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32996634" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49938875" weight="0.32996634" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32996634" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295964" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32884398" />
-      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32996634" />
+      <window_info anchor="bottom" auto_hide="true" id="Event Log" order="10" sideWeight="0.50183374" side_tool="true" weight="0.32996634" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49938875" weight="0.32884398" />
+      <window_info anchor="bottom" auto_hide="true" id="Python Console" order="12" sideWeight="0.49816626" type="SLIDING" weight="0.32884398" />
+      <window_info anchor="bottom" id="File Transfer" order="13" sideWeight="0.49816626" visible="true" weight="0.32996634" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" sideWeight="0.49665552" weight="0.3294621" />
-      <window_info anchor="right" id="SciView" order="4" sideWeight="0.49832776" weight="0.3294621" />
+      <window_info anchor="right" auto_hide="true" id="SciView" order="4" show_stripe_button="false" sideWeight="0.49832776" type="FLOATING" weight="0.3294621" />
       <window_info anchor="right" x="0" y="0" width="374" height="826" id="Documentation" order="5" sideWeight="0.5033445" side_tool="true" weight="0.3294621" />
       <window_info anchor="right" id="Database" order="6" sideWeight="0.49665552" weight="0.3294621" />
     </layout>
@@ -1403,62 +465,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stage1/data_list/val.csv" />
-    <entry file="file://$PROJECT_DIR$/stage1/data_list/train.csv" />
-    <entry file="file://$PROJECT_DIR$/stage1/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stage1/data/Images-rename.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stage1/inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="39" column="73" lean-forward="true" selection-start-line="39" selection-start-column="73" selection-end-line="39" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/stage1/data/Images-rename.py" />
     <entry file="file://$PROJECT_DIR$/../../lane/lane_competion/train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="55" column="73" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stage1/utils/make_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stage1/utils/image_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stage1/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1476,13 +487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stage2/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/stage1/Classes_classification.py" />
     <entry file="file://$PROJECT_DIR$/stage2/model/Alexnet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1493,26 +498,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stage2/inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stage1/Classes_classification.py">
+    <entry file="file://$PROJECT_DIR$/stage1/model/Alexnet.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stage2/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="157" selection-start-line="157" selection-end-line="163" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15640.29584/Classes_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="167" selection-start-line="167" selection-end-line="173" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stage3/utils/make_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stage2/Classes_classification.py">
+    <entry file="file://$PROJECT_DIR$/stage1/utils/image_process.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="350">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stage1/data_list/train.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stage1/utils/make_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -1521,8 +558,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stage2/train.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stage1/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stage2/Classes_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stage2/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
-          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stage1/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stage1/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="58" column="106" selection-start-line="58" selection-start-column="106" selection-end-line="58" selection-end-column="106" />
         </state>
       </provider>
     </entry>
