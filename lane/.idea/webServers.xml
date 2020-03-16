@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0d57ca17-9055-413d-a995-2e70cb12ecee" name="kkb" url="http://111.44.254.130">
+        <fileTransfer host="111.44.254.130" port="56204" rootFolder="/root" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="56204" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
